@@ -100,6 +100,8 @@ img {
     width: 370px;
     height: 350px;
     border-radius: 15px;
+    display: inline-block;
+    margin-right: 60px;
 }
 
 .foto {
@@ -139,6 +141,9 @@ img {
   text-decoration: none;
 }
 
+.contatonovo{
+  text-align: center;
+}
 
 footer {
   background-color: #2f2e30;
